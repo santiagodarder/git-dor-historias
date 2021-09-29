@@ -1,0 +1,38 @@
+Acción: Crear el correo
+
+a. Crear nuevo correo
+b. Elegir el destinatario
+c. Redactar el asunto
+d. Redactar el correo
+
+Actor: usuario
+
+Estimada en Story Points:
+(5)
+
+Beneficios al usuario: 
+Enviar información a cierto usuario.
+
+Especificaciones/restricciones:
+Debes tener usuario de tu casilla de correo
+Debes tener una persona a quien enviar tu correo
+
+Riesgos: 
+Redactar mal 
+Equivocarse de asunto
+Equivocarse de destinatario
+
+Ser entendible por todo el equipo:
+Lo es.
+
+No tener bloqueos:
+No hay.
+
+Dependencias resueltas: 
+sí
+
+Abaordaje dentro del Sprint y en minimo posible:
+sí.
+
+Modificable: 
+sí

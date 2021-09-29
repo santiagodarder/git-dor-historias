@@ -1,0 +1,23 @@
+Acción: Entrar a la casilla de correos
+
+a. Entrar al correo definido(gmail/hotmail/etc.)
+b. Loggearse
+
+Actor: usuario
+Beneficio: Puede enviar el correo, posee sus correos en una zona centralizada en la nube por si no quiere desperdiciar espacio y tiene a todos sus contactos guardados allí.
+
+
+Estimada en Story Points:
+(2)
+
+Especificaciones/restricciones:
+Tener usuario ya creado
+
+Riesgos:
+No hay.
+
+Ser entendible por todo el equipo
+No tener bloqueos
+Dependencias resueltas
+Abaordaje dentro del Sprint y en minimo posible
+Modificable
